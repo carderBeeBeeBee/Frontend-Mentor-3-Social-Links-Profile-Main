@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #141414;
+}
+
+.container {
+    background-color: #1f1f1f;
+    margin: 0 auto;
+    width: 20%;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: #c5f82a;
+}
+
+q {
+    color: white;
+}
+
+button {
+    margin: 0 auto;
+    background-color: #333333;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    display: block;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #c5f82a;
+    color: #1f1f1f;
+}
